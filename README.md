@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love reading and watching series**
 
+[![wakatime](https://wakatime.com/badge/user/05bbe974-271d-4d13-9042-5010a8d8825e.svg)](https://wakatime.com/@05bbe974-271d-4d13-9042-5010a8d8825e)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muyiwaoyinloye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muyiwaoyinloye" height="30" width="40" /></a>
