@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love reading and watching series**
 
-[![wakatime](https://wakatime.com/badge/user/1d5c2688-f871-4f15-b2fc-485297bba69a.svg)](https://wakatime.com/@05bbe974-271d-4d13-9042-5010a8d8825e)
+[![wakatime](https://wakatime.com/badge/user/aa156918-d8d6-4c61-b92d-f6b127a60c28.svg)](https://wakatime.com/@aa156918-d8d6-4c61-b92d-f6b127a60c28)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
