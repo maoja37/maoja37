@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **maoja37@gmail.com**
 
-- ⚡ Fun fact **I love reading and watching series**
+- ⚡ Fun fact **I love reading and watching serie**
 
 [![wakatime](https://wakatime.com/badge/user/aa156918-d8d6-4c61-b92d-f6b127a60c28.svg)](https://wakatime.com/@aa156918-d8d6-4c61-b92d-f6b127a60c28) 
 
