@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me **maoja37@gail.com**
+- 📫 How to reach me **maoja37@gmail.com**
 
 - ⚡ Fun fact **I love reading and watching series**
 
