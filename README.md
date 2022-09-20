@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/muyiwaoyinloye" target="blank"><img src="https://img.shields.io/twitter/follow/muyiwaoyinloye?logo=twitter&style=for-the-badge" alt="muyiwaoyinloye" /></a> </p>
 
-- 🔭 I’m currently working on **One Wallet and other cool stuffs**
+- 🔭 I’m currently working on **TellerOne**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
